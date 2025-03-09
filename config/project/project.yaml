@@ -1,0 +1,22 @@
+dateModified: 1741518745
+email:
+  fromEmail: sergiopgomes92@gmail.com
+  fromName: Motoventure
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    4a97ac01-d623-47fa-a056-df66c6a29e05: Motoventure # Motoventure
+    64defcb6-61e8-40f3-ab39-c26d22f13b81: Motoventure # Motoventure
+system:
+  edition: solo
+  live: true
+  name: Motoventure
+  schemaVersion: 5.6.0.2
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
